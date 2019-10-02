@@ -1,0 +1,1 @@
+# EquirImage object detection
